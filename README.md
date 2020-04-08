@@ -334,4 +334,4 @@ Instagram: <https://www.instagram.com/smoothgraphicsng?ref=adn-readme>
 ## Credits
 
 - [Creative Tim](https://creative-tim.com/?ref=adn-readme)
-- [SmoothGraphicsng]
+- [SmoothGraphicsng] (https://creative-tim.com/?ref=adn-readme)
