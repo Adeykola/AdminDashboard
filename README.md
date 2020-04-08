@@ -13,15 +13,6 @@ You will save a lot of time going from prototyping to full-functional code, beca
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 View all components [here](https://argon-dashboard-nodejs.creative-tim.com/docs/components/alerts?ref=adn-readme)
 
-**COMPLEX DOCUMENTATION**
-
-Each element is well presented in a very complex documentation. You can check the components [here](https://argon-dashboard-nodejs.creative-tim.com/docs/components/alerts?ref=adn-readme) and the foundation [here](https://argon-dashboard-nodejs.creative-tim.com/docs/foundation/colors?ref=adn-readme)
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
-View example pages [here](https://argon-dashboard-nodejs.creative-tim.com/?ref=adn-readme)
-
 
 ## Installation
 
@@ -317,41 +308,18 @@ At present, we officially aim to support the last two versions of the following 
 
 Please see the [changelog](CHANGELOG.md) for more information on what has changed recently.
 
-## Credits
-
-- [Creative Tim](https://creative-tim.com/)
-- [Under Development Office](https://udevoffice.com/)
 
 ## License
 
 [MIT License](https://github.com/laravel-frontend-presets/argon/blob/master/license.md).
 
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=adn-readme)
+- Copyright 2016 Creative Tim (https://www.creative-tim.com/?ref=adn-readme)
 
 - Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard-nodejs/blob/master/LICENSE.md)
 
-## Useful Links
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=adn-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=adn-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=adn-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=adn-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=adn-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=adn-readme)
 
 ### Social Media
 
@@ -361,9 +329,9 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=adn-readme>
 
 Dribbble: <https://dribbble.com/creativetim?ref=adn-readme>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=adn-readme>
+Instagram: <https://www.instagram.com/smoothgraphicsng?ref=adn-readme>
 
 ## Credits
 
 - [Creative Tim](https://creative-tim.com/?ref=adn-readme)
-- [Under Development Office](https://udevoffice.com/ref=creativetim)
+- [SmoothGraphicsng]
